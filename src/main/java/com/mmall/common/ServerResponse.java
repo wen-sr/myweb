@@ -1,4 +1,7 @@
 package com.mmall.common;
+/**
+ * 服务端响应对象
+ */
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 import org.codehaus.jackson.map.annotate.JsonSerialize;
